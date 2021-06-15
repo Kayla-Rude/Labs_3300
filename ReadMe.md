@@ -1,5 +1,5 @@
 Project Team Members: 
 Kayla Rude
 Macy Stephens
-RUi Zhang
+Rui Zhang
 Zixiao Wang
