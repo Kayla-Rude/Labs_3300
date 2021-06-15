@@ -1,2 +1,2 @@
 # Labs_3300
-Project Members: 
+Project Members
