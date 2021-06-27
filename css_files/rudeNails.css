@@ -1,0 +1,12 @@
+.image-txt-container {
+    display: flex;
+    align-items: top;
+    flex-direction: row;
+  }
+  
+  .right-text-container {
+      display: flex;
+      align-items: left;
+      flex-direction: row;
+      padding: 20px;
+  }
